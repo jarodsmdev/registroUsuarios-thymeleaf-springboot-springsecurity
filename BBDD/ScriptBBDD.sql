@@ -1,0 +1,2 @@
+CREATE DATABASE registro_usuarios_springboot;
+USE registro_usuarios_springboot;
